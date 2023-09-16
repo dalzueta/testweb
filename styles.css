@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #333;
+}
+
+.ascii-text {
+    font-size: 24px;
+    color: #fff;
+    font-family: monospace;
+    transform-origin: center;
+    animation: rotateText 4s linear infinite;
+}
