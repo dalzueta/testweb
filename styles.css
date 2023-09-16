@@ -12,5 +12,5 @@ body {
     color: #fff;
     font-family: monospace;
     transform-origin: center;
-    animation: rotateText 4s linear infinite;
+    animation: rotateText 10s linear infinite;
 }
