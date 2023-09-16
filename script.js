@@ -25,7 +25,7 @@ window.addEventListener('load', function () {
         } else {
             audio.play(); // Reproduce el sonido
             
-            toggleSoundButton.textContent = 'Alla le estan Clickeando !!! ';
+            toggleSoundButton.textContent = 'Alla la estan Clickeando !!! ';
             this.setTimeout(()=> {
                 toggleSoundButton.style.display = 'none';  
             }, 2500)
